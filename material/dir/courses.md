@@ -8,3 +8,4 @@
 
 - Básico ao Avançado
   - [Curso React.js Ninja - React Completo](https://www.udemy.com/curso-reactjs-ninja/)
+  - [Nanodegree Desenvolvedor React](https://br.udacity.com/course/react-nanodegree--nd019)
